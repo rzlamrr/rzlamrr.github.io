@@ -1,4 +1,4 @@
-# TheStrechh.github.io
+# Amitava123.github.io
 ---
 ### Credits
 * https://vincentgarreau.com/particles.js for Particles.js
