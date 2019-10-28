@@ -1,8 +1,13 @@
-# Amitava123.github.io
+# Please don't clone and re-push this repo, you can FORK this repo if you to use this code
+## Code contained in this repo was forked from other repo(see credits) and reworked by me
+
+### Contact me
+* [Telegram](https://t.me/zlian_id)
+* [Instagram](instagram.com/rizal.amrr)
 ---
 ### Credits
-* https://vincentgarreau.com/particles.js for Particles.js
+* https://github.com/amitava123/
 
-* https://github.com/ryan-andri/
+* https://github.com/ayrahikari/
 
-* https://freehtml5.co for Parts of CSS
+
